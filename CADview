@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autodesk Viewer 3D Embed</title>
+</head>
+<body style="margin:0; padding:0;">
+    <h2 style="text-align:center; margin:20px 0;">Autodesk Viewer - 3D Model</h2>
+    <iframe src="https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3Mzk1NDg2MDRfODc0NWIzMmUtZmFlYy00MTM2LTgzNWEtNDk2YWQwMjkxMTc5LmR3Zw?sheetId=M2JiMzZiMDUtNmZiNy0xZmQwLTNjNTgtZDgzYTRlOGQ0MDQy" 
+            width="100%" height="800px" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
